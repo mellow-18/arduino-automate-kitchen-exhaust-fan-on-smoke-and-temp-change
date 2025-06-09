@@ -41,3 +41,8 @@ The fan turns OFF once conditions return to safe levels, making the system fully
 9. Hot gum gun or 2 way gum tape
 10. Testers & Multimeter
 11. Laptop to compile code on Arduino IDE
+
+# Note: Download the .ino file and directly upload the file on the Arduino IDE.
+# Verify & Upload
+
+# Done.
