@@ -42,6 +42,8 @@ The fan turns OFF once conditions return to safe levels, making the system fully
 10. Testers & Multimeter
 11. Laptop to compile code on Arduino IDE
 
+# Refer electrical circuit diagram for reference in the image - kitchen-exhaust-fan-circuit-diagram.png
+
 # Note: Download the .ino file and directly upload the file on the Arduino IDE.
 # Verify & Upload
 
