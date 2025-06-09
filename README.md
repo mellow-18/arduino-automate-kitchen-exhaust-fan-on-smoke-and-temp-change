@@ -44,6 +44,8 @@ The fan turns OFF once conditions return to safe levels, making the system fully
 
 # Refer electrical circuit diagram for reference in the image - kitchen-exhaust-fan-circuit-diagram.png
 
+Download portable Arduino from: https://docs.arduino.cc/software/ide-v1/tutorials/PortableIDE/
+
 # Note: Download the .ino file and directly upload the file on the Arduino IDE.
 # Verify & Upload
 
